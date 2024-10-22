@@ -1,5 +1,7 @@
+# **Labyrinth** 
+## A game in C++
 This is a labyrinth game with 2 players. One player is controlled by you (red), while the other is run by the program (green).  
-Your goal is to get the gem before Green does, be quick!  
+Your goal is to get the gem before Green does, be quick!
 
 1. **General**  
     * ***Movement***  
